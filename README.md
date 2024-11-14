@@ -11,6 +11,8 @@
 ### Project Overview
 This project focused on analyzing train ride data to identify patterns and trends in the UK transportation system. Key areas of analysis included the most popular routes, peak travel times, revenue distribution by ticket types and classes, and the assessment of on-time performance. By examining these factors, I was able to provide valuable insights into operational efficiency, customer behavior, and potential areas for improvement in service delivery.
 
+![Uk_train_rides](https://github.com/user-attachments/assets/94f31f4f-c487-4fff-a79e-cc49e8736f0d)
+
 ### Data Source
 The dataset used for this project was sourced from Maven Analytics, which provides comprehensive datasets on various aspects of the UK train ride system.
 
